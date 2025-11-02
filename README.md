@@ -3,7 +3,7 @@ Analysis of Lifestyle and Sleep Patterns
 The project aims at using Powerbi for data preparation, feature engineering and visual analytics for drawing insights from [Kaggle](https://www.kaggle.com/datasets/0f4b0b774a1d5081623fff75b135ba81e682bb64f9b9bc2edba1bdd703c66977).
 
 Publications Links:
-- [Medium](https://www.kaggle.com/datasets/0f4b0b774a1d5081623fff75b135ba81e682bb64f9b9bc2edba1bdd703c66977).
+- [Medium](https://medium.com/@danihenacho95/lifestyle-sleep-analysis-67281b798f07).
 - [LinkedIn]().
 
 ## Data Analytics Procedure
