@@ -1,5 +1,6 @@
 # Lifestyle & Sleep Analysis
 Analysis of Lifestyle and Sleep Patterns
+![Sleep](image/sleep1.jpg)
 
 The project aims at using Powerbi for data preparation, feature engineering and visual analytics for drawing insights from [Kaggle](https://www.kaggle.com/datasets/0f4b0b774a1d5081623fff75b135ba81e682bb64f9b9bc2edba1bdd703c66977).
 
@@ -29,7 +30,7 @@ M-Query, the language that powers PowerQuery was used for the cleaning of the da
     }),
 ```
 
-![M-Query](image/M-Query.jpg)
+![M-Query](image/M-Query.png)
 
 The **Table.RenameColumns** function was used to rename all columns, it expects the following; previous table procedure and a dictionary for renaming the columns.
 
@@ -50,7 +51,7 @@ stress level categorised = SWITCH(
     "terrible"
 )
 ```
-![DAX](image/DAX.jpg)
+![DAX](image/DAX.png)
 
 In above code, the stress level categorised is created using the stress level column from the dataset. The switch statement was used to easily map the strings to the numerical values in the newly calculated column by using the condition given.
 
@@ -68,10 +69,10 @@ Most of the feature engineered columns were based off some research (Google is s
 9. Quality vs. quantity: While sleep quality is generally good across jobs; sales representatives uniquely report bad sleep quality and engineers report excellent sleep duration and quality.
 10. Stress dynamics: Physical activity does not always lower stress (e.g., sales reps), whereas higher sleep duration (e.g., engineers) is consistently linked to lower stress.
 
-![Page-1](image/Page-1.jpg)
-![Page-2](image/Page-2.jpg)
-![Page-3](image/Page-3.jpg)
-![Page-4](image/Page-4.jpg)
+![Page-1](image/page-1.png)
+![Page-2](image/page-2.png)
+![Page-3](image/page-3.png)
+![Page-4](image/page-4.png)
 
 Publications:
 [Medium](https://www.kaggle.com/datasets/0f4b0b774a1d5081623fff75b135ba81e682bb64f9b9bc2edba1bdd703c66977).
