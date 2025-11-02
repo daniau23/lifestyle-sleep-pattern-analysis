@@ -4,7 +4,6 @@ The project aims at using Powerbi for data preparation, feature engineering and 
 
 Publications Links:
 - [Medium](https://medium.com/@danihenacho95/lifestyle-sleep-analysis-67281b798f07).
-- [LinkedIn]().
 
 ## Data Analytics Procedure
 Steps for this involved the following;
